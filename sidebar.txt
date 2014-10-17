@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tdr:home|Door43 (tdr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tdr|d43-tdr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tdr/archive/master.zip|d43-tdr.zip]]
+
+**Recent Changes**
+{{changes>ns = tdr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tdr|Ethnologue data]]
+
